@@ -36,3 +36,6 @@ We are using a MongoDB backend for this project. Currently, we connect to a Mong
 
 ### Env Variables
 There must be a file caller `server/env.js` which defines environment variables called MAX_ATTEMPTS, LOCKOUT_TIME, MONGODB_USERNAME, and MONGODB_PASSWORD.
+
+### Collaborators
+This project was developed for a class project collaboratively by Ben Fioresi (Bmfioresi), Logan Brower (lmbrower), Kaitlyn Bryant (kdbryant2), and Hannah Brousseau (hbrousseau).
